@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System (eDoc Doctor Appointment System)
+#  Hospital Management System (eDoc Doctor Appointment System)
 
 A web-based Hospital Management System designed to simplify doctor appointment scheduling and patient management.
 
@@ -6,9 +6,9 @@ The platform supports multiple user roles including **Patients, Doctors, and Adm
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 Patient Module
+###  Patient Module
 - User Registration & Login
 - Search available doctors
 - View scheduled sessions
@@ -16,7 +16,7 @@ The platform supports multiple user roles including **Patients, Doctors, and Adm
 - Track booking history
 - Manage account settings
 
-### 👨‍⚕️ Doctor Module
+###  Doctor Module
 - Doctor authentication
 - Dashboard overview
 - View appointments
@@ -24,7 +24,7 @@ The platform supports multiple user roles including **Patients, Doctors, and Adm
 - Access patient details
 - Account management
 
-### 🛠 Admin Module
+###  Admin Module
 - Manage doctors
 - Manage patients
 - Appointment administration
@@ -33,7 +33,7 @@ The platform supports multiple user roles including **Patients, Doctors, and Adm
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - PHP
 - HTML5
@@ -44,7 +44,7 @@ The platform supports multiple user roles including **Patients, Doctors, and Adm
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```plaintext
 Hospital-Management-System
@@ -67,7 +67,7 @@ Hospital-Management-System
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone Repository
 
@@ -112,7 +112,7 @@ localhost/Hospital-Management-System
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Landing Page
 
