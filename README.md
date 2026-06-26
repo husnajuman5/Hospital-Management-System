@@ -1,5 +1,4 @@
-#  Hospital Management System (eDoc Doctor Appointment System)
-
+AI-Powered Navigation Assistant for Visually Impaired Individuals
 A web-based Hospital Management System designed to simplify doctor appointment scheduling and patient management.
 
 The platform supports multiple user roles including **Patients, Doctors, and Administrators**, allowing appointment booking, doctor scheduling, patient records management, and hospital workflow optimization.
